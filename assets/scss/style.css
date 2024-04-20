@@ -11,6 +11,8 @@
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
     animation-duration: 3s;
     animation-iteration-count: infinite;
+    border-radius: 50px;
+    opacity: 0.6;
   }
   .rotating-text-wrapper h2:nth-child(1) {
     background-color: lightseagreen;
